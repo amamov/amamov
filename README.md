@@ -1,10 +1,6 @@
 ## Yoon - Sang Seok (amamov)
 
-<div align=center>
-
-![](https://komarev.com/ghpvc/?username=amamov&color=brightgreen)
-
-</div>
+![](https://komarev.com/ghpvc/?username=amamov&color=lightgrey)
 
 ### 🧑🏻‍💻 Career
 
