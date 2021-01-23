@@ -31,7 +31,7 @@
 
 ### 🌱 I’m currently learning
 
-- **Go lang**
+- **Flutter - Dart lang**
 - <b>Typescript</b>
 - **Deep Learning**
 - **Block Chain**
