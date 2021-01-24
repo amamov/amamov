@@ -6,8 +6,8 @@
 
 - Attending in <i>Mathematics</i> from **Inha University**, South Korea, in 2018.
 - Attending in <i>Software Convergence Engineering</i> from **Inha University**, South Korea, in 2020.
+- Currently working as the **CTO** or **Product Manager** of a startup <i>Work Tour</i>.
 - Currently working as a **software project mentor**. (Full Stack Software)
-- Currently preparing the **CTO** or **Product Manager** of a startup <i>Work Tour</i>.
 - Currently, I am researching the field of **artificial intelligence** and **block chain**.
 
 [![amamov's github stats](https://github-readme-stats.vercel.app/api?username=amamov&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
