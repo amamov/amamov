@@ -20,12 +20,12 @@
 
 ### ⚡️ Skills
 
-- **React**
-- **React Native**
-- **Django**
-- **Django-Rest-Framework**
-- **Flask**
-- **Node.js**
+- **React** (for Web SPA frontend develop)
+- **React Native** (for Mobile application develop)
+- **Django** (for Web backend develop)
+- **Django-Rest-Framework** (for rest api develop)
+- **Flask** (for rest api develop)
+- **Node.js** (for Web backend develop)
 - **Pytorch**
 - **Docker**
 
