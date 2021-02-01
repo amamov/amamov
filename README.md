@@ -25,7 +25,8 @@
 - **Django** 
 - **Django-Rest-Framework** 
 - **Flask** 
-- **Node.js**
+- **NodeJS**
+- **Express**
 - **Pytorch**
 - **Docker**
 
