@@ -20,20 +20,22 @@
 
 ### ⚡️ Skills
 
-- **React**
-- **React Native**
+- **React-DOM as React**
 - **Django** 
 - **Django-Rest-Framework** 
 - **Flask** 
 - **NodeJS**
-- **Express**
+- **ExpressJS**
 - **Pytorch**
 - **Docker**
+- **SQL**
+- **Firebase**
 
 ### 🌱 I’m currently learning
 
+- **Electron as React**
 - **Flutter - Dart lang**
-- <b>Typescript</b>
+- **Typescript**
 - **Deep Learning**
 - **Block Chain**
 
