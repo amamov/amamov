@@ -6,7 +6,7 @@
 
 - Attending in <i>Mathematics</i> from **Inha University**, South Korea, in 2018.
 - Attending in <i>Software Convergence Engineering</i> from **Inha University**, South Korea, in 2020.
-- Currently working as the **CTO** or **Product Manager** of a startup <i>Work Tour</i>.
+- Currently working as the **full stack developer** of a startup <i>Work Tour</i>.
 - Currently working as a **software project mentor**. (Full Stack Software)
 - Currently, I am researching the field of **artificial intelligence** and **block chain**.
 
