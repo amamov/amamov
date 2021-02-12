@@ -14,7 +14,7 @@
 
 ### ⛏ Main Language
 
-**Python** | **C lang** | <b>Javascript(ES6)</b> | **Typescript** | **Dart lang**
+- **Python**, **C lang**,  <b>Javascript(ES6)</b>, **Typescript**, **Dart lang**
 
 ### ⚡️ Skills
 
