@@ -29,7 +29,7 @@
 - **Pytorch** : Machine learning 
 - **Docker**
 - **MySQL**, **PostgreSQL**
-- **Firebase** : Real time app or For simple frontend develop
+- **Firebase** : Real time app or Simple frontend develop (no-backend)
 - **AWS S3**, **Azure** : Cloud computing
 
 
