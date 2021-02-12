@@ -37,8 +37,11 @@
 
 ### 🌱 I’m currently learning
 
-- **Electron** : Desktop develop
 - **Deep learning**
+- **Electron** : Desktop develop
+- **Sanic** : Python fast web server framework
+  - async / await
+  - non-blocking
 
 <!-- <div align=center>
 
