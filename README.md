@@ -23,7 +23,7 @@
 ### ⚡️ Skills
 
 - **React** (TS) : Web frontend develop
-- **Flutter** : iOS, Android App develop
+- **Flutter** : iOS, Android app develop
 - **Django** : Backend develop
   - **GraphQL**
   - **Django Restful Framework**
