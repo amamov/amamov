@@ -16,12 +16,12 @@
 
 ### ⛏ Main Language
 
-- **Python**, **C lang**,  <b>Javascript(ES6)</b>, **Typescript**, **Dart lang**
+- **Python**, **C lang**,  <b>Javascript(ES6)</b>, **Dart lang**
 
 ### ⚡️ Skills
 
-- **React** (TS) : Web frontend develop
-- **Flutter** : iOS, Android app develop
+- **React** : Web frontend develop
+- **Flutter** : iOS, Android, desktop app develop
 - **Django** : Backend develop
   - **GraphQL**
   - **Django Restful Framework**
@@ -36,8 +36,8 @@
 ### 🌱 I’m currently learning
 
 - **Deep learning**
-- **Electron** : Desktop develop
-- **Sanic** : Python fast web server framework
+- **Typescript**
+- **sanic** : Python fast web server framework
   - async / await
   - non-blocking
 
