@@ -37,9 +37,7 @@
 
 - **Deep learning**
 - **Typescript**
-- **sanic** : Python fast web server framework
-  - async / await
-  - non-blocking
+- **fastapi** : Python fast web server framework
 
 <!-- <div align=center>
 
