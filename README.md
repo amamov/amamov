@@ -30,7 +30,7 @@
 - **Docker**
 - **MySQL**, **PostgreSQL**
 - **Firebase** : Real time app or Simple frontend develop (no-backend)
-- **AWS S3**, **Azure** : Cloud computing
+- **AWS**, **Azure** : Cloud computing
 
 
 ### 🌱 I’m currently learning
