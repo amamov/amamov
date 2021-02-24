@@ -21,7 +21,7 @@
 ### ⚡️ Skills
 
 - **React** : Web frontend develop
-- **React Nativer** : iOS, Android app develop
+- **React Native** : iOS, Android app develop
 - **Django** : Backend develop
   - **GraphQL**
   - **Django Restful Framework**
