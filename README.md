@@ -39,6 +39,7 @@ I am interested in the software company culture and love to team up to create va
 - **Deep learning**
 - **Typescript**
 
+<br>
 
 [![amamov's github stats](https://github-readme-stats.vercel.app/api?username=amamov&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
