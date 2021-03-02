@@ -9,7 +9,9 @@ Hello👐, I’m Yoon Sang-seok, who dreams of becoming an sorfware engineer wit
 
 I am interested in the software company culture and love to team up to create valuable and meaningful software products.
 
-- 📝 My Resume: [Link]()
+- 📝 My Resume : [Link]()
+- 💌 Contact Me : amamov@kakao.com
+- 🔥 I'm interested in `Agile`, `OOP`, `DevOps`, `Backend`, `Deep Learning`
 
 
 ### ⛏ Main Language
@@ -33,6 +35,7 @@ I am interested in the software company culture and love to team up to create va
 ### 🌱 I’m currently learning
 
 - **Agile methodology**
+- **Restful API Design**
 - **Deep learning**
 - **Typescript**
 
