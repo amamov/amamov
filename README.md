@@ -9,7 +9,6 @@ Hello👐, I’m Yoon Sang-seok, who dreams of becoming an engineer without imag
 - 📝 My Resume: [Link]()
 
 
-
 <br>
 
 [![amamov's github stats](https://github-readme-stats.vercel.app/api?username=amamov&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
