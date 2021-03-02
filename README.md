@@ -2,9 +2,9 @@
 
  <!-- ![](https://komarev.com/ghpvc/?username=amamov&color=brightgreen) -->
 
-### 🧑🏻‍💻 Zero To One!! ⚡️⚡️⚡️
+### 🧑🏻‍💻 Zero To One!!
 
-Hello👐, I’m Yoon Sang-seok, who dreams of becoming an engineer without imagination.
+Hello👐, I’m Yoon Sang-seok, who dreams of becoming an sorfware engineer without imagination.
 
 - 📝 My Resume: [Link]()
 
