@@ -2,8 +2,6 @@
 
  <!-- ![](https://komarev.com/ghpvc/?username=amamov&color=brightgreen) -->
 
-### 🧑🏻‍💻 
-
 I am interested in the software company culture and love to team up to create valuable and meaningful software products.
 
 - 📝 My Resume : [Link]()
