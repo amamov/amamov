@@ -2,10 +2,7 @@
 
  <!-- ![](https://komarev.com/ghpvc/?username=amamov&color=brightgreen) -->
 
-### 🧑🏻‍💻 Zero To One
-
-Hello👐, I’m Yoon Sang-seok, who dreams of becoming an sorfware engineer without imagination. 
-
+### 🧑🏻‍💻 
 
 I am interested in the software company culture and love to team up to create valuable and meaningful software products.
 
