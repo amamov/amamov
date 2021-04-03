@@ -15,24 +15,36 @@ I am interested in the software company culture and love to team up to create va
 
 ### ⚡️ Skills
 
-- **React** : Web frontend develop
-- **React Native** : iOS, Android app develop
-- **Django** : Backend develop
-  - **GraphQL**
-  - **Django Restful Framework**
-- **FastAPI** : Micro backend develop
-- **Docker**
-- **MySQL**, **PostgreSQL**
-- **Firebase** : Real time app or Simple frontend develop (no-backend)
-- **AWS**, **Azure** : Cloud computing
+- **Backend Dev**
+  - **Django**
+    - **GraphQL**
+    - **Django Restful Framework**
+  - **FastAPI**
+  - **SQL**
+  - **Firebase**
+
+
+- **Web Frontend Dev**
+  - **ES6**, **Babel**, **TailwindCSS**
+  - **React**
+
+
+- **Mobile App Dev**
+  - **React Native** : iOS, Android app develop
+
+
+- **DevOps**
+  - **Docker**
+  - **AWS** : Cloud computing
 
 
 ### 🌱 I’m currently learning
 
 - **Agile methodology**
 - **Restful API Design**
-- **Deep learning**
+- **Deep Learning**
 - **Typescript**
+- **Block Chain**
 
 <br>
 
