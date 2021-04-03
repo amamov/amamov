@@ -16,8 +16,7 @@ I am interested in the software company culture and love to team up to create va
 ### ⚡️ Skills
 
 - **Backend Dev**
-  - Django
-    - Django Restful Framework
+  - Django, Django Restful Framework
   - FastAPI
   - SQL
   - Firebase
