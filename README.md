@@ -16,26 +16,30 @@ I am interested in the software company culture and love to team up to create va
 ### ⚡️ Skills
 
 - **Backend Dev**
-  - **Django**
-    - **GraphQL**
-    - **Django Restful Framework**
-  - **FastAPI**
-  - **SQL**
-  - **Firebase**
+  - Django
+    - Django Restful Framework
+  - FastAPI
+  - SQL
+  - Firebase
+  - ...
 
 
 - **Web Frontend Dev**
-  - **ES6**, **Babel**, **TailwindCSS**
-  - **React**
+  - ES6, Babel, TailwindCSS
+  - React
+  - ...
 
 
 - **Mobile App Dev**
-  - **React Native** : iOS, Android app develop
+  - React Native
+  - ...
 
 
 - **DevOps**
-  - **Docker**
-  - **AWS** : Cloud computing
+  - Docker
+  - AWS
+  - Azure
+  - ...
 
 
 ### 🌱 I’m currently learning
@@ -45,6 +49,7 @@ I am interested in the software company culture and love to team up to create va
 - **Deep Learning**
 - **Typescript**
 - **Block Chain**
+- **GraphQL**
 
 <br>
 
