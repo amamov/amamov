@@ -11,7 +11,7 @@ I am interested in the software company culture and love to team up to create va
 
 ### ⛏ Main Language
 
-- **Python**, **C lang**,  <b>Javascript(ES6)</b>
+- **Python**, **C lang**,  <b>Javascript(ES6)</b>, ...
 
 ### ⚡️ Skills
 
