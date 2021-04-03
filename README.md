@@ -41,6 +41,16 @@ I am interested in the software company culture and love to team up to create va
   - ...
 
 
+- **Dev Tools**
+  - VSCode
+  - Pycharm
+  - Git / Github
+  - Notion
+  - Slack
+  - Figma
+  - Vim
+  - ...
+
 ### 🌱 I’m currently learning
 
 - **Agile methodology**
