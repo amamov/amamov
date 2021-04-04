@@ -16,18 +16,10 @@ I am interested in the software company culture and love to team up to create va
 ### ⚡️ Skills
 
 - **Backend Dev**
-- 
+- **Deep Learning**
 - **Web Frontend Dev**
-- 
 - **Mobile App Dev**
-- 
 - **DevOps**
-
-- **Dev Tools**
-  - VSCode, Pycharm, Vim, Git / Github
-  - Notion, Slack
-  - Figma
-  - ...
 
 ### 🌱 I’m currently learning
 
