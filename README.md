@@ -16,30 +16,12 @@ I am interested in the software company culture and love to team up to create va
 ### ⚡️ Skills
 
 - **Backend Dev**
-  - Django, Django Restful Framework
-  - FastAPI
-  - SQL
-  - Firebase
-  - ...
-
-
+- 
 - **Web Frontend Dev**
-  - ES6, Babel, TailwindCSS
-  - React
-  - ...
-
-
+- 
 - **Mobile App Dev**
-  - React Native
-  - ...
-
-
+- 
 - **DevOps**
-  - Docker
-  - AWS
-  - Azure
-  - ...
-
 
 - **Dev Tools**
   - VSCode, Pycharm, Vim, Git / Github
