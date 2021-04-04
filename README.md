@@ -26,9 +26,7 @@ I am interested in the software company culture and love to team up to create va
 - **Agile methodology**
 - **Restful API Design**
 - **Deep Learning**
-- **Typescript**
 - **Block Chain**
-- **GraphQL**
 
 <br>
 
