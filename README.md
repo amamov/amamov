@@ -4,6 +4,7 @@
 
 I am interested in the software company culture and love to team up to create valuable and meaningful software products.
 
+
 - 📝 My Resume : [Link]()
 - 💌 Contact Me : amamov@kakao.com
 - 🔥 Interested in `Agile`, `Backend`, `Deep Learning`, `DevOps`
