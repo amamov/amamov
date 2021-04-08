@@ -24,10 +24,11 @@ I am interested in the software company culture and love to team up to create va
 ### ⚡️ Skills
 
 - **Backend Dev**
+- **DevOps**
 - **Deep Learning**
 - **Web Frontend Dev**
 - **Mobile App Dev**
-- **DevOps**
+
 
 ### 🌱 I’m currently learning
 
