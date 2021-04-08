@@ -15,6 +15,9 @@ I am interested in the software company culture and love to team up to create va
 - **Python**, **C lang**,  <b>Javascript(ES6)</b>, ...
 -->
 
+
+[![amamov's github stats](https://github-readme-stats.vercel.app/api?username=amamov&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### ⚡️ Skills
 
 - **Backend Dev**
@@ -33,9 +36,5 @@ I am interested in the software company culture and love to team up to create va
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amamov&layout=compact&langs_count=10&theme=dark)](https://github.com/laigasus/github-readme-stats)
-
-<br>
-
-[![amamov's github stats](https://github-readme-stats.vercel.app/api?username=amamov&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ↓ My toy
