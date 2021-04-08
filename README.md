@@ -9,10 +9,11 @@ I am interested in the software company culture and love to team up to create va
 - 💌 Contact Me : amamov@kakao.com
 - 🔥 Interested in `Agile`, `Backend`, `Deep Learning`, `DevOps`
 
-
+<!--
 ### ⛏ Main Language
 
 - **Python**, **C lang**,  <b>Javascript(ES6)</b>, ...
+-->
 
 ### ⚡️ Skills
 
