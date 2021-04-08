@@ -36,8 +36,6 @@ I am interested in the software company culture and love to team up to create va
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amamov&layout=compact&langs_count=10&theme=dark)](https://github.com/laigasus/github-readme-stats)<br>
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=amamov&show_icons=true&hide_title=true&langs_count=8&theme=dark)<br>
-
 
 ↓ My toy
 
