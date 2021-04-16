@@ -2,8 +2,7 @@
 
  <!-- ![](https://komarev.com/ghpvc/?username=amamov&color=brightgreen)-->
  
-- Interested in all aspects of IT, studying and developing, regardless of field.
-- Interested in the software company culture and love to team up to create valuable and meaningful software products.
+> Interested in the software company culture and love to team up to create valuable and meaningful software products.
 
 
 - 📝 My Resume : [Link]()
