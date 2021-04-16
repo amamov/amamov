@@ -2,7 +2,7 @@
 
  <!-- ![](https://komarev.com/ghpvc/?username=amamov&color=brightgreen)-->
  
-> Interested in the software company culture and love to team up to create valuable and meaningful software products.
+> Love to team up to create valuable and meaningful software products.
 
 
 - 📝 My Resume : [Link]()
