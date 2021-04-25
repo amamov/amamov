@@ -5,7 +5,7 @@
 > Love to team up to create valuable and meaningful software products.
 
 
-- 📝 My Resume : [Link]()
+<!-- - 📝 My Resume : [Link]() -->
 - 💌 Contact Me : amamov@kakao.com
 - 🔥 Interested in `Agile`, `Backend`, `Deep Learning`, `DevOps`
 
