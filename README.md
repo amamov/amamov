@@ -8,7 +8,7 @@
 <!-- - 📝 My Resume : [Link]() -->
 - 💌 Contact Me : amamov@kakao.com
 - 🎮 Youtube : [Channel Link](https://www.youtube.com/channel/UCZF5F4FY5vKOqW24YJ_XklQ)
-- 🔥 Interested in `Agile`, `Backend`, `DevOps`
+- 🔥 Interested in `Agile`, `Backend`, `web frontend`, `DevOps`
 
 <!--
 ### ⛏ Main Language
