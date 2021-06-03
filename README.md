@@ -26,7 +26,6 @@
 
 - **Backend Dev**
 - **DevOps**
-- **Deep Learning**
 - **Web Frontend Dev**
 - **Mobile App Dev**
 
@@ -34,7 +33,6 @@
 ### 🌱 I’m currently learning
 
 - **Agile methodology**
-- **Restful API Design**
 - **Deep Learning**
 - **Block Chain**
 
