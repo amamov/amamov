@@ -4,7 +4,7 @@
  
 > Love to team up to create valuable and meaningful software products.
 
-<kbd><img src="https://yt3.ggpht.com/xJCgWfILpXKs-q6rGxQheDIzsC1m_MzPqEoBkZGw15Czqldlb2ZJKAnDlet3JzY9VXGatAB1ow=s600-c-k-c0x00ffffff-no-rj-rp-mo" width="100px" height="auto" style="display: block; border-radius: 50%" /></kbd>
+<center><kbd><img src="https://yt3.ggpht.com/xJCgWfILpXKs-q6rGxQheDIzsC1m_MzPqEoBkZGw15Czqldlb2ZJKAnDlet3JzY9VXGatAB1ow=s600-c-k-c0x00ffffff-no-rj-rp-mo" width="100px" height="auto" style="border-radius: 50%" /></kbd></center>
 
 
 <!-- - 📝 My Resume : [Link]() -->
