@@ -46,10 +46,10 @@
 
 ### ⚡️ Skills
 
-- Backend Dev
-- DevOps
-- Web Frontend Dev
-- Mobile App Dev
+- Backend Dev : `Express`, `Nestjs`, `Django`
+- DevOps : `AWS`, `Docker`, `Linux`, `Nginx`
+- Web Frontend Dev : `Nextjs`, `React`
+- Mobile App Dev : `React-Native`
  
 
 ### 🌱 I’m currently learning
