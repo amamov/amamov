@@ -1,9 +1,13 @@
 ## Yoon - Sang Seok (amamov)
 
+<br />
+
  <!-- ![](https://komarev.com/ghpvc/?username=amamov&color=brightgreen)-->
 <!-- > Love to team up to create valuable and meaningful software products. -->
 
 <p align="center"><kbd><img src="https://yt3.ggpht.com/xJCgWfILpXKs-q6rGxQheDIzsC1m_MzPqEoBkZGw15Czqldlb2ZJKAnDlet3JzY9VXGatAB1ow=s600-c-k-c0x00ffffff-no-rj-rp-mo" width="100px" height="auto" style="border-radius: 50%" /></kbd></center></p>
+
+<br />
 
 > <b>I love to create meaningful things and I love to share knowledge.</b>
 
