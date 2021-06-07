@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-<b> "I love to create meaningful things and share knowledge." :) </b> 
+<b> "I love to create meaningful things and share knowledge." :) </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 </p>
 
 <br />
@@ -21,6 +21,10 @@
 - 🏴‍☠️   Language I love `Typescript`, `C++`, `Python`
 - ⛱   Youtube : [Channel Link](https://www.youtube.com/channel/UCZF5F4FY5vKOqW24YJ_XklQ)
 <!-- - 🎩   Teaching : [Inflearn](https://www.inflearn.com/users/@amamov) -->
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 <!--
 ### ⛏ Main Language
@@ -34,20 +38,24 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amamov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+<p align="center">
 ### ⚡️ Skills
 
 - Backend Dev
 - DevOps
 - Web Frontend Dev
 - Mobile App Dev
+ 
+</p>
 
+<p align="center">
 
 ### 🌱 I’m currently learning
 
 - Agile methodology
 - Deep Learning
 - Block Chain
+</p>
 
 <br>
 
