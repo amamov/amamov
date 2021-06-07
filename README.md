@@ -18,13 +18,13 @@
 <!-- - 📝 My Resume : [Link]() -->
 - 📮   Contact Me : amamov@kakao.com
 - 🐾   Interested in `Technology Management`, `Backend Dev`, `Frontend Dev`, `DevOps`, `Blockchain`
-- 🏴‍☠️   Language I love `Typescript`, `C++`, `Python`
+- 🏴‍☠️   Language I love <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 - ⛱   Youtube : [Channel Link](https://www.youtube.com/channel/UCZF5F4FY5vKOqW24YJ_XklQ)
 <!-- - 🎩   Teaching : [Inflearn](https://www.inflearn.com/users/@amamov) -->
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
 
 <!--
 ### ⛏ Main Language
@@ -38,7 +38,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amamov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p align="center">
 ### ⚡️ Skills
 
 - Backend Dev
@@ -46,16 +45,12 @@
 - Web Frontend Dev
 - Mobile App Dev
  
-</p>
-
-<p align="center">
 
 ### 🌱 I’m currently learning
 
 - Agile methodology
 - Deep Learning
 - Block Chain
-</p>
 
 <br>
 
