@@ -20,6 +20,7 @@
 - 🐾   Interested in `Technology Management`, `Backend Dev`, `Frontend Dev`, `DevOps`, `Blockchain`
 - 🏴‍☠️   Language I love `Typescript`, `C++`, `Python`
 - ⛱   Youtube : [Channel Link](https://www.youtube.com/channel/UCZF5F4FY5vKOqW24YJ_XklQ)
+- 🚀.  Teaching : [Inflearn](https://www.inflearn.com/users/@amamov)
 
 <!--
 ### ⛏ Main Language
