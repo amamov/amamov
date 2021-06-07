@@ -9,23 +9,19 @@
 - 💌 Contact Me : amamov@kakao.com
 - 🎮 Youtube : [Channel Link](https://www.youtube.com/channel/UCZF5F4FY5vKOqW24YJ_XklQ)
 - 🔥 Interested in `Agile`, `Backend`, `web frontend`, `DevOps`
+- 🏴‍☠️ Language I love `Typescript`, `C++`, `Python`
 
 <!--
 ### ⛏ Main Language
 
 - **Python**, **C lang**,  <b>Javascript(ES6)</b>, ...
 -->
-<div style="display: flex; flex-direction: row;">
+<!-- [![amamov's github stats](https://github-readme-stats.vercel.app/api?username=amamov&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
- <div>
-[![amamov's github stats](https://github-readme-stats.vercel.app/api?username=amamov&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- </div>
-
-
- <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amamov&layout=compact&langs_count=10&theme=dark)](https://github.com/laigasus/github-readme-stats)
- </div>
- </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amamov)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### ⚡️ Skills
 
