@@ -15,12 +15,14 @@
 
 - **Python**, **C lang**,  <b>Javascript(ES6)</b>, ...
 -->
-
+<div style="display: flex;">
 
 [![amamov's github stats](https://github-readme-stats.vercel.app/api?username=amamov&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amamov&layout=compact&langs_count=10&theme=dark)](https://github.com/laigasus/github-readme-stats)
+ 
+ </div>
 
 ### ⚡️ Skills
 
