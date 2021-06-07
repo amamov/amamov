@@ -21,6 +21,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amamov&layout=compact&langs_count=10&theme=dark)](https://github.com/laigasus/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amamov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amamov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amamov&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amamov&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### ⚡️ Skills
