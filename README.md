@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-<b> "I love to create meaningful things and I love to share knowledge." :) </b> 
+<b> "I love to create meaningful things and share knowledge." :) </b> 
 </p>
 
 <br />
