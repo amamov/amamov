@@ -36,17 +36,17 @@
 
 ### ⚡️ Skills
 
-- **Backend Dev**
-- **DevOps**
-- **Web Frontend Dev**
-- **Mobile App Dev**
+- Backend Dev
+- DevOps
+- Web Frontend Dev
+- Mobile App Dev
 
 
 ### 🌱 I’m currently learning
 
-- **Agile methodology**
-- **Deep Learning**
-- **Block Chain**
+- Agile methodology
+- Deep Learning
+- Block Chain
 
 <br>
 
