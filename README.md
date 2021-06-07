@@ -9,7 +9,8 @@
 
 <br />
 
-> <b>I love to create meaningful things and I love to share knowledge.</b>
+<p align="center">
+> <b>I love to create meaningful things and I love to share knowledge.</b> </p>
 
 <!-- - 📝 My Resume : [Link]() -->
 - 💌 Contact Me : amamov@kakao.com
