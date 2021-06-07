@@ -41,7 +41,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amamov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### ⚡️ Skills
-<hr/>
+
 - Backend Dev
 - DevOps
 - Web Frontend Dev
@@ -49,7 +49,7 @@
  
 
 ### 🌱 I’m currently learning
-<hr/>
+
 - Agile methodology
 - Deep Learning
 - Block Chain
