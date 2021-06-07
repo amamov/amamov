@@ -13,10 +13,12 @@
 <b> I love to create meaningful things and I love to share knowledge. :) </b> 
 </p>
 
+<br />
+
 <!-- - 📝 My Resume : [Link]() -->
 - 💌 Contact Me : amamov@kakao.com
 - 🎮 Youtube : [Channel Link](https://www.youtube.com/channel/UCZF5F4FY5vKOqW24YJ_XklQ)
-- 🔥 Interested in `Agile`, `Backend`, `web frontend`, `DevOps`
+- 🔥 Interested in `Technology Management`, `Backend Dev`, `Frontend Dev`, `DevOps`, `Blockchain`
 - 🏴‍☠️ Language I love `Typescript`, `C++`, `Python`
 
 <!--
