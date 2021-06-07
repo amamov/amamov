@@ -16,10 +16,10 @@
 <br />
 
 <!-- - 📝 My Resume : [Link]() -->
-- 💌  Contact Me : amamov@kakao.com
-- 🔥  Interested in `Technology Management`, `Backend Dev`, `Frontend Dev`, `DevOps`, `Blockchain`
+- 🖤 Contact Me : amamov@kakao.com
+- 🐾  Interested in `Technology Management`, `Backend Dev`, `Frontend Dev`, `DevOps`, `Blockchain`
 - 🏴‍☠️  Language I love `Typescript`, `C++`, `Python`
-- 🎮  Youtube : [Channel Link](https://www.youtube.com/channel/UCZF5F4FY5vKOqW24YJ_XklQ)
+- 🎥 Youtube : [Channel Link](https://www.youtube.com/channel/UCZF5F4FY5vKOqW24YJ_XklQ)
 
 <!--
 ### ⛏ Main Language
