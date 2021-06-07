@@ -4,7 +4,7 @@
  
 > Love to team up to create valuable and meaningful software products.
 
-<img src="https://yt3.ggpht.com/xJCgWfILpXKs-q6rGxQheDIzsC1m_MzPqEoBkZGw15Czqldlb2ZJKAnDlet3JzY9VXGatAB1ow=s600-c-k-c0x00ffffff-no-rj-rp-mo" width="100px" height="100px" style="border-radius: 50%" />
+<img src="https://yt3.ggpht.com/xJCgWfILpXKs-q6rGxQheDIzsC1m_MzPqEoBkZGw15Czqldlb2ZJKAnDlet3JzY9VXGatAB1ow=s600-c-k-c0x00ffffff-no-rj-rp-mo" width="100px" height="100px" style="display: block; border-radius: 50%" />
 
 <!-- - 📝 My Resume : [Link]() -->
 - 💌 Contact Me : amamov@kakao.com
