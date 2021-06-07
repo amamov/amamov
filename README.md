@@ -6,13 +6,9 @@
 
 <img src="https://yt3.ggpht.com/xJCgWfILpXKs-q6rGxQheDIzsC1m_MzPqEoBkZGw15Czqldlb2ZJKAnDlet3JzY9VXGatAB1ow=s600-c-k-c0x00ffffff-no-rj-rp-mo" width="100px" height="auto" style="display: block; border-radius: 50%" />
 
-![amaco](https://yt3.ggpht.com/xJCgWfILpXKs-q6rGxQheDIzsC1m_MzPqEoBkZGw15Czqldlb2ZJKAnDlet3JzY9VXGatAB1ow=s600-c-k-c0x00ffffff-no-rj-rp-mo#logo)
+![amaco](https://yt3.ggpht.com/xJCgWfILpXKs-q6rGxQheDIzsC1m_MzPqEoBkZGw15Czqldlb2ZJKAnDlet3JzY9VXGatAB1ow=s600-c-k-c0x00ffffff-no-rj-rp-mo#logo){: width=100 height=auto style="float:right; padding:16px"
 
-img[src*="#logo"] {
-   width: 100px;
-   height: auth;
-   border-radius: 50%;
-}
+
 
 <!-- - 📝 My Resume : [Link]() -->
 - 💌 Contact Me : amamov@kakao.com
