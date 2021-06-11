@@ -43,12 +43,12 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amamov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### 🎩 Teaching
+### ✨ Teaching
 
 - [Inflearn](https://www.inflearn.com/users/@amamov) : <6월 14~16일 타입 파이썬 강의 출시! />
 
 
-### ⚡️ Skills
+### 🎩 Skills
 
 - Backend Dev : `Express`, `Nestjs`, `Django`
 - DevOps : `AWS`, `Docker`, `Linux`, `Nginx`
