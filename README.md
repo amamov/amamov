@@ -45,7 +45,7 @@
 
 ### ✨ Teaching
 
-- [Inflearn](https://www.inflearn.com/users/@amamov) : <6월 14~16일 타입 파이썬 강의 출시! />
+- [인프런](https://www.inflearn.com/users/@amamov) : <6월 14~16일 타입 파이썬 강의 출시! />
 
 
 ### ⚡️ Skills
