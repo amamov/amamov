@@ -45,7 +45,7 @@
 
 ### ✨ Teaching
 
-- [인프런](https://www.inflearn.com/users/@amamov) : <6월 14~16일 타입 파이썬 강의 출시! />
+- [인프런](https://www.inflearn.com/users/@amamov) : [타입 파이썬! 올바른 class 사용법과 객체지향 프로그래밍](https://www.inflearn.com/course/%ED%83%80%EC%9E%85-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
 
 
 ### ⚡️ Skills
