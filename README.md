@@ -5,7 +5,7 @@
  <!-- ![](https://komarev.com/ghpvc/?username=amamov&color=brightgreen)-->
 <!-- > Love to team up to create valuable and meaningful software products. -->
 
-<p align="center"><kbd><img src="https://yt3.ggpht.com/xJCgWfILpXKs-q6rGxQheDIzsC1m_MzPqEoBkZGw15Czqldlb2ZJKAnDlet3JzY9VXGatAB1ow=s600-c-k-c0x00ffffff-no-rj-rp-mo" width="100px" height="auto" style="border-radius: 50%" /></kbd></center></p>
+<p align="center"><kbd><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCoRwx%2Fbtq8RTT0dV4%2Fl8ShVrjKSDSaGGGrhNkudK%2Fimg.jpg" width="100px" height="auto" style="border-radius: 50%" /></kbd></center></p>
 
 <br />
 
