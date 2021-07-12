@@ -25,7 +25,8 @@
 - 🏴‍☠️   Language I love `Typescript`, `C++`, `Python`, `Go`
 - 🎲   Youtube : [아마코](https://www.youtube.com/channel/UCZF5F4FY5vKOqW24YJ_XklQ)
 - ✨   Teaching
-   - [인프런](https://www.inflearn.com/users/@amamov) : [타입 파이썬! 올바른 class 사용법과 객체지향 프로그래밍](https://www.inflearn.com/course/%ED%83%80%EC%9E%85-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+   - [인프런 : 타입 파이썬! 올바른 class 사용법과 객체지향 프로그래밍](https://www.inflearn.com/course/%ED%83%80%EC%9E%85-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+<!--    - [인프런 : 탄탄한 백엔드 NestJS, 기초부터 심화까지]() -->
 
 <!-- <span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></span>
 <span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></span>
