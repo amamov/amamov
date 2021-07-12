@@ -23,7 +23,6 @@
 - 📮   Contact Me : amamov@kakao.com
 - 🐾   Interested in `Technology Management`, `Backend Dev`, `DevOps`
 - 🏴‍☠️   Language I love `Typescript`, `C++`, `Python`, `Go`
-- 🎲   Youtube : [아마코](https://www.youtube.com/channel/UCZF5F4FY5vKOqW24YJ_XklQ)
 - ✨   Teaching
    - [인프런 : 타입 파이썬! 올바른 class 사용법과 객체지향 프로그래밍](https://www.inflearn.com/course/%ED%83%80%EC%9E%85-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
 <!--    - [인프런 : 탄탄한 백엔드 NestJS, 기초부터 심화까지]() -->
