@@ -20,7 +20,7 @@
 <br />
 
 <!-- - 📝 My Resume : [Link]() -->
-- 😊   Contact Me : amamov@kakao.com
+- 🌟   Contact Me : amamov@kakao.com
 - 💫  Interested in `Technology Management`, `Backend Dev`, `DevOps`
 -  ⚡️   Language I love `Typescript`, `C++`, `Python`, `Go`
 - ✨   Teaching
