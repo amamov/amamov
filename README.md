@@ -22,7 +22,7 @@
 <!-- - 📝 My Resume : [Link]() -->
 - 🌟   Contact Me : amamov@kakao.com
 - 💫  Interested in `Technology Management`, `Backend Dev`, `DevOps`
--  ⚡️   Language I love `Typescript`, `C++`, `Python`, `Go`
+-  ⚡️   Language I love `Typescript`, `C++`, `Python`
 - ✨   Teaching
    - [인프런 : 타입 파이썬! 올바른 class 사용법과 객체지향 프로그래밍](https://www.inflearn.com/course/%ED%83%80%EC%9E%85-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
    - [인프런 : 탄탄한 백엔드 NestJS, 기초부터 심화까지](https://www.inflearn.com/course/탄탄한-백엔드-네스트?inst=798f440e)
