@@ -20,7 +20,6 @@
 - Contact Me : amamov@kakao.com
 - Tech Blog : [amamov.com](https://amamov.com)
 - Interested in `Technology Management`, `Backend Dev`, `DevOps`
-- Language I love `Typescript`, `C++`, `Python`
 - Teaching
    - [탄탄한 백엔드 NestJS, 기초부터 심화까지](https://www.inflearn.com/course/탄탄한-백엔드-네스트?inst=798f440e)
    - [파이썬 동시성 프로그래밍 : 데이터 수집부터 웹 개발까지](https://www.inflearn.com/course/파이썬-동시성-프로그래밍?inst=6c599da7)
