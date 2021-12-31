@@ -1,6 +1,3 @@
-<!-- ## Yoon - Sang Seok (amamov)
-
-<br /> -->
 
 <p align="center"><kbd><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCoRwx%2Fbtq8RTT0dV4%2Fl8ShVrjKSDSaGGGrhNkudK%2Fimg.jpg" width="100px" height="auto" style="border-radius: 50%" /></kbd></center></p>
 
@@ -14,9 +11,6 @@
 <b> "I love to create meaningful things and share knowledge."</b> 
 </p>
 
-<br />
-
-<!-- - 📝 My Resume : [Link]() -->
 - Contact Me : amamov@kakao.com
 - Tech Blog : [amamov.com](https://amamov.com)
 - Interested in `Technology Management`, `Backend Dev`, `DevOps`
@@ -27,8 +21,3 @@
 
 <!-- - Book
    - 파이썬 동시성 프로그래밍으로 데이터 수집부터 웹 개발까지  -->
-<br>
-
-
-
-↓ My toy
