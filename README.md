@@ -1,11 +1,11 @@
 
 <p align="center"><kbd><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCoRwx%2Fbtq8RTT0dV4%2Fl8ShVrjKSDSaGGGrhNkudK%2Fimg.jpg" width="100px" height="auto" style="border-radius: 50%" /></kbd></center></p>
 
-<br />
-
+<!-- <br /> -->
+<!-- 
 <p align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-</p>
+</p> -->
 
 <p align="center">
 <b> "I love to create meaningful things and share knowledge."</b> 
