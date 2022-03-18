@@ -3,10 +3,6 @@
 
 <br />
 
-<p align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-</p>
-
 - Contact Me : amamov@kakao.com
 - Tech Blog : [amamov.com](https://amamov.com)
 - Teaching
