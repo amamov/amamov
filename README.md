@@ -3,12 +3,6 @@
 
 <br />
 
-- Contact Me : amamov@kakao.com
-- Tech Blog : [amamov.com](https://amamov.com)
-- Teaching
-   - [탄탄한 백엔드 NestJS, 기초부터 심화까지](https://www.inflearn.com/course/탄탄한-백엔드-네스트?inst=798f440e)
-   - [파이썬 동시성 프로그래밍 : 데이터 수집부터 웹 개발까지](https://www.inflearn.com/course/파이썬-동시성-프로그래밍?inst=6c599da7)
-   - [타입 파이썬! 올바른 class 사용법과 객체지향 프로그래밍](https://www.inflearn.com/course/%ED%83%80%EC%9E%85-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
-
-<!-- - Book
-   - 파이썬 동시성 프로그래밍으로 데이터 수집부터 웹 개발까지  -->
+- [탄탄한 백엔드 NestJS, 기초부터 심화까지](https://www.inflearn.com/course/탄탄한-백엔드-네스트?inst=798f440e)
+- [파이썬 동시성 프로그래밍 : 데이터 수집부터 웹 개발까지](https://www.inflearn.com/course/파이썬-동시성-프로그래밍?inst=6c599da7)
+- [타입 파이썬! 올바른 class 사용법과 객체지향 프로그래밍](https://www.inflearn.com/course/%ED%83%80%EC%9E%85-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
